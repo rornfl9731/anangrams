@@ -1,3 +1,6 @@
+#anagram은 똑같은 문자로 구성되어있는지?
+
+
 def anangram(a,b):
     a = a.replace(' ','').lower()
     b = b.replace(' ','').lower()
